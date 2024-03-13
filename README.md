@@ -5,6 +5,15 @@ This Racing Championship Results Analyzer is a C++ project designed to read and 
 
 This project aims to provide a tool for analyzing racing results by reading data from a file, processing it, and presenting the results in a sorted format. It calculates total points for each pilot based on lap scores and sorts pilots based on their total points, providing a clear view of race rankings.
 
+## Screenshots
+- Grid View
+
+<img src="images/file.png" alt="Grid View" width="150"/>
+
+- Full Image View
+  
+<img src="images/result.png" alt="Full Image View" width="150"/>
+
 ## Features
 
 - Read racing data from a file
