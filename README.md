@@ -8,11 +8,11 @@ This project aims to provide a tool for analyzing racing results by reading data
 ## Screenshots
 - Grid View
 
-<img src="images/file.png" alt="Grid View" width="150"/>
+<img src="images/file.png" alt="file txt" width="150"/>
 
 - Full Image View
   
-<img src="images/result.png" alt="Full Image View" width="150"/>
+<img src="Images/result.png" alt="Terminal  View" width="150"/>
 
 ## Features
 
